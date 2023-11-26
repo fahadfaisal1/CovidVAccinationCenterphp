@@ -1,0 +1,8 @@
+body{
+
+    background: url('../plugins/images/g.webp') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+
+    /* background-color: aqua !important; */
+}
